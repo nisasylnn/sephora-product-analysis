@@ -1,0 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Sep  1 18:25:55 2026
+
+@author: NİSANUR
+"""
+
+pandas
+numpy
+matplotlib
